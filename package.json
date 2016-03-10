@@ -1,6 +1,6 @@
 {
   "name": "bindmethods",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cleaner way to bind methods. Written for React + ES6",
   "main": "index.js",
   "scripts": {

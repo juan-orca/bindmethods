@@ -1,0 +1,28 @@
+{
+  "name": "bindmethods",
+  "version": "1.0.0",
+  "description": "A cleaner way to bind methods. Written for React + ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-orca/bindmethods.git"
+  },
+  "keywords": [
+    "react",
+    "React",
+    "ECMA6",
+    "ES6",
+    "bind",
+    "bindmethods",
+    "constructor"
+  ],
+  "author": "Juan Antelo-Justiniano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juan-orca/bindmethods/issues"
+  },
+  "homepage": "https://github.com/juan-orca/bindmethods#readme"
+}

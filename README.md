@@ -5,7 +5,11 @@ A cleaner way to bind methods. Written for React ES6
 ```
 npm install bindmethods
 ```
-### 
+### Signature
+
+```js
+function ([arrayOfStrings],this)
+```
 
 ### API 
 bindMethods is a function that accepts 2 parameters.

@@ -5,6 +5,7 @@ A cleaner way to bind methods. Written for React ES6
 ```
 npm install bindmethods
 ```
+### 
 
 ### API 
 bindMethods is a function that accepts 2 parameters.
@@ -16,7 +17,7 @@ Second Parameter - The 'this' keyword
 ## Examples
 
 When you are creating a new React ES6 Component, Why do this : 
-```
+```js
 class ExampleComponent extends React.Component {
  constructor() {
   super();
@@ -44,7 +45,7 @@ class ExampleComponent extends React.Component {
 
 When you can do this :
 
-```
+```js
 var bindMethods = require("bindmethods");
 class ExampleComponent extends React.Component {
  constructor() {

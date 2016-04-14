@@ -1,6 +1,8 @@
 # bindmethods
 A cleaner way to bind methods. Written for React ES6
 
+https://www.npmjs.com/package/bindmethods - Downloaded 85 times as of 4/14/2016
+
 ## Installation
 ```
 npm install bindmethods
